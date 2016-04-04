@@ -1,1 +1,8 @@
 Drinking vinegar PBR&B mustache, whatever keytar kitsch single-origin coffee XOXO fap 3 wolf moon tumblr jean shorts banjo. Yr viral hoodie meditation forage. Hammock mumblecore blue bottle forage locavore drinking vinegar. Meh normcore skateboard, hashtag food truck listicle small batch retro brooklyn post-ironic asymmetrical single-origin coffee mixtape. Cray ugh pabst DIY green juice organic. Kogi next level literally distillery. 3 wolf moon fanny pack trust fund, keffiyeh lumbersexual meggings tattooed.
+You start in a mode called “normal mode”. You can’t immediately type anything.
+
+In order to get typing press i (stands for insert). This will bring you to “insert mode”, so named because in this mode you can actually type.
+
+When you are done typing press esc. This will bring you back to “normal mode”.
+
+In order to save your work you want to type :w and press return. And in order to exit vim you want to type :q and press return. Because saving and quitting is a very common action, there is actually a shortcut :x, which stands for :wq (which just combines :w and :q).
