@@ -1,1 +1,0 @@
-will configure Git to use the nano editor. The commands to use the text editor (like copy, paste, quit, etc.) will be shown on the bottom of the screen. The ^ symbol represents the ctrl key. For example, you can press ctrl-O to save (nano calls it “write out”) and then ctrl-X to quit.
