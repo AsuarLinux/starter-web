@@ -16,3 +16,7 @@ new line in purpose
 adding deployment
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git Training
