@@ -1,7 +1,8 @@
 # Starter Web Repo - first level heading
 
 This repository is for showing how Git and GitHub work
-adding more text for rebasing
+adding more text for rebasing, then more changes from
+myfeature branch.
 
 ## Introduction
 
