@@ -3,12 +3,11 @@
 
 # TEAM
 
-    John Cena
     Arian Suarez 	arian.suarez@git.com
 
 # THANKS
 
-    <name>
+    Thanks to everyone
 
 # TECHNOLOGY COLOPHON
 
