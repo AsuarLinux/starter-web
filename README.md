@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 adding more text for rebasing, then more changes from
-myfeature branch.
+myfeature branch. Emergency
 
 ## Introduction
 
